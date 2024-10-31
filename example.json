@@ -1,0 +1,91 @@
+{
+    _id: '1',
+    title: 'Cámara Digital',
+    description: 'Cámara compacta con alta resolución y grabación en HD.',
+    price: 180.50,
+    inventory: 15,
+    images: ['https: //cdn-icons-png.flaticon.com/512/8209/8209584.png', 'https://myecommerce.com/images/camara-side.jpg'],
+    rating: 5,
+    sendtype: ['Estándar', 'Express'
+        ],
+    location: 'Lima, Perú',
+    },
+    {
+    _id: '2',
+    title: 'Auriculares Pro',
+    description: 'Auriculares inalámbricos con cancelación de ruido y batería prolongada.',
+    price: 100.90,
+    inventory: 120,
+    images: [
+      'https: //cdn-icons-png.flaticon.com/512/8209/8209584.png',
+      'https: //myecommerce.com/images/auriculares-side.jpg',
+        ],
+    rating: 3,
+    sendtype: ['Estándar'
+        ],
+    location: 'Trujillo, Perú',
+    },
+    {
+    _id: '3',
+    title: 'Reloj Inteligente',
+    description: 'Reloj resistente al agua con monitoreo de salud avanzado.',
+    price: 245.50,
+    inventory: 50,
+    images: ['https: //cdn-icons-png.flaticon.com/512/8209/8209584.png', 'https://myecommerce.com/images/reloj-back.jpg'],
+    rating: 4,
+    sendtype: ['Estándar', 'Express'
+            ],
+    location: 'Cusco, Perú',
+        }
+
+{
+            "_id": {
+                "$oid": "6722ce739e9eccc19ae77c6d"
+            },
+            "title": "Cámara Digital",
+            "description": "Cámara compacta con alta resolución y grabación en HD.",
+            "price": 180.50,
+            "inventory": 15,
+            "images": [
+                "https://cdn-icons-png.flaticon.com/512/8209/8209584.png",
+                "https://myecommerce.com/images/camara-side.jpg"
+            ],
+            "rating": 5,
+            "sendtype": [
+                "Estándar",
+                "Express"
+            ],
+            "location": "Lima, Perú",
+            "createdAt": {
+                "$date": "2024-09-11T19:33:22.179Z"
+            },
+            "updatedAt": {
+                "$date": "2024-09-19T16:28:43.595Z"
+            },
+            "__v": 0
+        }
+
+{
+            "_id": "6722ce739e9eccc19ae77c6e",
+            "title": "Auriculares Pro",
+            "description": "Auriculares inalámbricos con cancelación de ruido y batería prolongada.",
+            "price": 100.90,
+            "inventory": 120,
+            "images": [
+                "https://cdn-icons-png.flaticon.com/512/8209/8209584.png",
+                "https://myecommerce.com/images/auriculares-side.jpg"
+            ],
+            "rating": 3,
+            "sendtype": [
+                "Estándar"
+            ],
+            "location": "Trujillo, Perú",
+            "createdAt": {
+                "$date": "2024-09-11T19:33:22.179Z"
+            },
+            "updatedAt": {
+                "$date": "2024-09-19T16:28:43.595Z"
+            },
+            "__v": 0
+        }
+

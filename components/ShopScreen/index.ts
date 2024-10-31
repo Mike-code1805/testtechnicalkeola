@@ -1,0 +1,1 @@
+export { ShopScreenProductsComponent } from './ShopScreenProductsComponent';
